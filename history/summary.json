@@ -1,20 +1,20 @@
 [
   {
-    "name": "Refilc",
+    "name": "reFilc",
     "url": "https://refilc.hu",
     "icon": "https://icons.duckduckgo.com/ip3/refilc.hu.ico",
-    "slug": "refilc",
+    "slug": "re-filc",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 678,
-    "timeDay": 678,
-    "timeWeek": 678,
-    "timeMonth": 678,
-    "timeYear": 678,
+    "time": 467,
+    "timeDay": 467,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   }
 ]
