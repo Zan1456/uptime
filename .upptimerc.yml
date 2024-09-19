@@ -1,25 +1,18 @@
-# Change these first
-owner: Zan1456 # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: Zan1456
+repo: uptime
 
 sites:
-  - name: Refilc
+  - name: reFilc
     url: https://refilc.hu
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: reFilc állapot
+  introTitle: "Itt találod a **reFilc** által működtetett oldalaknak az állapotát"
+  introMessage: Probléma esetén kérlek nyiss egy Issue-t a Github-on.
   navbar:
-    - title: Status
+    - title: Állapot
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
