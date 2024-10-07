@@ -4,17 +4,19 @@
     "url": "https://refilc.hu",
     "icon": "https://icons.duckduckgo.com/ip3/refilc.hu.ico",
     "slug": "re-filc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 693,
-    "timeWeek": 579,
-    "timeMonth": 590,
-    "timeYear": 590,
-    "dailyMinutesDown": {}
+    "time": 589,
+    "timeDay": 625,
+    "timeWeek": 576,
+    "timeMonth": 589,
+    "timeYear": 589,
+    "dailyMinutesDown": {
+      "2024-10-07": 0
+    }
   }
 ]
