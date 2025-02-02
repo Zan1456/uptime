@@ -2,14 +2,14 @@ owner: Zan1456
 repo: uptime
 
 sites:
-  - name: reFilc
-    url: https://refilc.hu
+  - name: Zan1456 weboldala
+    url: https://zan1456.hu
 
 status-website:
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://i.imgur.com/FGNFcN2.png
   name: reFilc állapot
-  introTitle: "Itt találod a **reFilc** által működtetett oldalaknak az állapotát"
+  introTitle: "Itt találod a **Zan1456** által működtetett oldalaknak az állapotát"
   introMessage: Probléma esetén kérlek nyiss egy Issue-t a Github-on.
   navbar:
     - title: Állapot
