@@ -1,20 +1,20 @@
 [
   {
-    "name": "reFilc",
-    "url": "https://refilc.hu",
-    "icon": "https://icons.duckduckgo.com/ip3/refilc.hu.ico",
-    "slug": "re-filc",
+    "name": "Zan1456 weboldala",
+    "url": "https://zan1456.hu",
+    "icon": "https://icons.duckduckgo.com/ip3/zan1456.hu.ico",
+    "slug": "zan1456-weboldala",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 403,
-    "timeWeek": 516,
-    "timeMonth": 529,
-    "timeYear": 557,
+    "time": 1748,
+    "timeDay": 1748,
+    "timeWeek": 1748,
+    "timeMonth": 1748,
+    "timeYear": 1748,
     "dailyMinutesDown": {}
   }
 ]
