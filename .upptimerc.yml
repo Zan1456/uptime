@@ -4,13 +4,17 @@ repo: uptime
 sites:
   - name: Zan1456 weboldala
     url: https://zan1456.hu
+  - name: Zan1456 fordításai
+    url: https://localize.zan1456.hu
+  - name: Zan1456 qna bővítménye
+    url: https://qna.zan1456.hu
 
 status-website:
   baseUrl: /uptime
   logoUrl: https://i.imgur.com/FGNFcN2.png
   name: reFilc állapot
   introTitle: "Itt találod a **Zan1456** által működtetett oldalaknak az állapotát"
-  introMessage: Probléma esetén kérlek nyiss egy Issue-t a Github-on.
+  introMessage: Probléma esetén kérlek nyiss egy hibajelentést Githubon.
   navbar:
     - title: Állapot
       href: /
