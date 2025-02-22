@@ -4,19 +4,19 @@
     "url": "https://zan1456.hu",
     "icon": "https://icons.duckduckgo.com/ip3/zan1456.hu.ico",
     "slug": "zan1456-weboldala",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1414,
-    "timeDay": 1263,
-    "timeWeek": 1486,
-    "timeMonth": 1414,
-    "timeYear": 1414,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1465,
+    "timeDay": 1924,
+    "timeWeek": 1623,
+    "timeMonth": 1465,
+    "timeYear": 1465,
     "dailyMinutesDown": {
-      "2025-02-22": 0
+      "2025-02-22": 5
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://qna.zan1456.hu",
     "icon": "https://icons.duckduckgo.com/ip3/qna.zan1456.hu.ico",
     "slug": "zan1456-qna-bovitmenye",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1018,
-    "timeDay": 1380,
-    "timeWeek": 1250,
-    "timeMonth": 1018,
-    "timeYear": 1018,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1056,
+    "timeDay": 1624,
+    "timeWeek": 1327,
+    "timeMonth": 1056,
+    "timeYear": 1056,
     "dailyMinutesDown": {
-      "2025-02-22": 0
+      "2025-02-22": 5
     }
   }
 ]
