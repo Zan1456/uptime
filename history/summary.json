@@ -4,9 +4,9 @@
     "url": "https://zan1456.hu",
     "icon": "https://icons.duckduckgo.com/ip3/zan1456.hu.ico",
     "slug": "zan1456-weboldala",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1486,
     "timeMonth": 1414,
     "timeYear": 1414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-22": 0
+    }
   },
   {
     "name": "Zan1456 fordításai",
@@ -40,7 +42,7 @@
     "url": "https://qna.zan1456.hu",
     "icon": "https://icons.duckduckgo.com/ip3/qna.zan1456.hu.ico",
     "slug": "zan1456-qna-bovitmenye",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 1250,
     "timeMonth": 1018,
     "timeYear": 1018,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-22": 0
+    }
   }
 ]
