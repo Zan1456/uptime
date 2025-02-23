@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zan1456.hu.ico",
     "slug": "zan1456-weboldala",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1465,
-    "timeDay": 1924,
-    "timeWeek": 1623,
-    "timeMonth": 1465,
-    "timeYear": 1465,
-    "dailyMinutesDown": {
-      "2025-02-22": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1452,
+    "timeDay": 1863,
+    "timeWeek": 1520,
+    "timeMonth": 1452,
+    "timeYear": 1452,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zan1456 fordításai",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1058,
-    "timeDay": 1660,
-    "timeWeek": 1073,
-    "timeMonth": 1058,
-    "timeYear": 1058,
+    "time": 1048,
+    "timeDay": 849,
+    "timeWeek": 1085,
+    "timeMonth": 1048,
+    "timeYear": 1048,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/qna.zan1456.hu.ico",
     "slug": "zan1456-qna-bovitmenye",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1056,
-    "timeDay": 1624,
-    "timeWeek": 1327,
-    "timeMonth": 1056,
-    "timeYear": 1056,
-    "dailyMinutesDown": {
-      "2025-02-22": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1044,
+    "timeDay": 1316,
+    "timeWeek": 1165,
+    "timeMonth": 1044,
+    "timeYear": 1044,
+    "dailyMinutesDown": {}
   }
 ]
