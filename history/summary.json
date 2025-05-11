@@ -4,9 +4,9 @@
     "url": "https://zan1456.hu",
     "icon": "https://icons.duckduckgo.com/ip3/zan1456.hu.ico",
     "slug": "zan1456-weboldala",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1704,
     "timeMonth": 1593,
     "timeYear": 1474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-11": 0
+    }
   },
   {
     "name": "Zan1456 fordításai",
