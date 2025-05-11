@@ -4,19 +4,19 @@
     "url": "https://zan1456.hu",
     "icon": "https://icons.duckduckgo.com/ip3/zan1456.hu.ico",
     "slug": "zan1456-weboldala",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1474,
-    "timeDay": 1171,
-    "timeWeek": 1704,
+    "time": 1475,
+    "timeDay": 1383,
+    "timeWeek": 1691,
     "timeMonth": 1593,
-    "timeYear": 1474,
+    "timeYear": 1475,
     "dailyMinutesDown": {
-      "2025-05-11": 0
+      "2025-05-11": 5
     }
   },
   {
