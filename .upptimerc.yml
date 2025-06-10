@@ -4,10 +4,8 @@ repo: uptime
 sites:
   - name: Zan1456 weboldala
     url: https://zan1456.hu
-  - name: Zan1456 fordításai
-    url: https://localize.zan1456.hu
-  - name: Zan1456 qna bővítménye
-    url: https://qna.zan1456.hu
+  - name: Firka
+    url: https://firka.app
 
 status-website:
   baseUrl: /uptime
