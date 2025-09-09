@@ -4,7 +4,7 @@
     "url": "https://zan1456.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zan1456.dev.ico",
     "slug": "zan1456-weboldala",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 832,
     "timeYear": 1346,
     "dailyMinutesDown": {
+      "2025-09-09": 0,
       "2025-08-11": 132
     }
   },
