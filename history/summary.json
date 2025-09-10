@@ -11,9 +11,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.96%",
     "time": 1348,
-    "timeDay": 1387,
-    "timeWeek": 1116,
-    "timeMonth": 846,
+    "timeDay": 1540,
+    "timeWeek": 1196,
+    "timeMonth": 848,
     "timeYear": 1348,
     "dailyMinutesDown": {
       "2025-08-11": 132
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/firka.app.ico",
     "slug": "firka",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 660,
-    "timeWeek": 589,
-    "timeMonth": 448,
-    "timeYear": 310,
+    "uptime": "99.58%",
+    "uptimeDay": "61.78%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.58%",
+    "time": 313,
+    "timeDay": 584,
+    "timeWeek": 599,
+    "timeMonth": 461,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-09-09": 0
+      "2025-09-10": 4,
+      "2025-09-09": 546
     }
   }
 ]
